@@ -1,5 +1,5 @@
 - 👋 hi, I’m @saezhe
-- 👀 im interested in:
+- 👀 im interested in: (in no particular order)
   - philosophy
   - math
   - logic
@@ -11,7 +11,7 @@
     - microtonality / xenharmony
   - society
   - space
-  - futurism
+  - futurism / transhumanism
   - art
     - generative art
 - 🌱 im currently learning:
