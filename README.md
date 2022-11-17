@@ -21,7 +21,7 @@
   - anything we share a common vision in
 - 📫 how to reach me:
   - website: https://erosaezhe.netlify.app/
-  - email: mailto:thethreadsnake@gmail.com
+  - email: mailto:ashbysharp@gmail.com
 
 <!---
 saezhe/saezhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
