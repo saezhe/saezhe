@@ -6,7 +6,7 @@
   - language
     - conlangs
   - computation
-    - simulations
+    - simulations / emergence / artificial life
   - music
     - microtonality / xenharmony
   - society
