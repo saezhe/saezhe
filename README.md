@@ -4,7 +4,7 @@
   - math
   - logic
   - language
-    - conlangs
+    - globasa
   - computation
     - simulations / emergence / artificial life
   - music
