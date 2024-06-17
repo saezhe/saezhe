@@ -20,7 +20,6 @@
 - 💞️ im looking to collaborate on:
   - anything we share a common vision in
 - 📫 how to reach me:
-  - website: https://erosaezhe.netlify.app/
   - email: mailto:ashbysharp@gmail.com
 
 <!---
